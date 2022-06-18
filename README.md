@@ -1,1 +1,0 @@
-# SPRO-Django-week2
